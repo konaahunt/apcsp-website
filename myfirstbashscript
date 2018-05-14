@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ecgi "hello world"
